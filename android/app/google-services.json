@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "178777288098",
+    "project_id": "food-shop-4b963",
+    "storage_bucket": "food-shop-4b963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178777288098:android:59a35e8a70b6038d3516fb",
+        "android_client_info": {
+          "package_name": "dev.future.foodShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178777288098-b3akufg01gu4tgtas0emvrsaj040lp26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.future.foodShop",
+            "certificate_hash": "70e8b4747959d9a399edd076f618f8ce1c6c716d"
+          }
+        },
+        {
+          "client_id": "178777288098-hiph85h58a6o5kgsu67ava7vtlj2fh9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoafUgkZXhHFRZNjqL3RELdp-89hJHNFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178777288098-hiph85h58a6o5kgsu67ava7vtlj2fh9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178777288098-prros0orjun6ooh8nsppftd0riaimbi6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.future.foodShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
